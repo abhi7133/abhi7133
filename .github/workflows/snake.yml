@@ -9,6 +9,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # Fetch full history for pushing
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -21,5 +26,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force: true                  # force push to avoid conflicts
+          commit_message: ":snake: github contribution snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
