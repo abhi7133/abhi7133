@@ -51,7 +51,7 @@ Includes form creation testing, validation scenarios, and UI behavior tracking.
 Miniprojects in java repository
 Includes automobile services,Hotel Management services and more projects in this repository.
 
-![Snake animation](https://github.com/abhi7133/abhi7133/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/abhi7133/abhi7133/blob/output/github-snake-dark.svg)
 
 
 
