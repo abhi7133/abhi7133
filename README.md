@@ -36,16 +36,11 @@
 ![Visitor Count](https://visitcount.itsvg.in/api?id=abhi7133&icon=0&color=0)
 
 ## 🚀 My Projects
-- 🔍 **Flipkart Automation Search Project**  
-  [GitHub Repo Link](https://github.com/abhi7133/abhisheksubhashdhanapune-ME_QA_XFLIPKART_SEARCH)  
-  Automated testing of Flipkart features using Selenium & TestNG including sorting, filtering, and review extraction.
 
-## Technologies Used
-- Java
-- Selenium WebDriver
-- TestNG
-- Gradle
-- 
+### 🛒 [abhisheksubhashdhanapune-ME_QA_XFLIPKART_SEARCH](https://github.com/abhi7133/abhisheksubhashdhanapune-ME_QA_XFLIPKART_SEARCH)  
+Automation testing project for Flipkart using Selenium and TestNG.  
+Covers product search, sorting, rating filters, review scraping, and more.
+
 ### 🔍 [abhisheksubhashdhanapune-ME_QA_XLEETCODE1](https://github.com/abhi7133/abhisheksubhashdhanapune-ME_QA_XLEETCODE1)
 A repository containing ME QA solutions and practice problems from XLeetcode.  
 Includes problem-solving approaches, code samples, and explanations for efficient learning.
